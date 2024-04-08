@@ -1,2 +1,2 @@
 name,ring,quadrant,isNew,description
-Technology Radar,trial,tools,TRUE,"We are discussing new tech via our engineering community, COPs, etc. and adding them to the Thoughtworks 'build your own radar' gives a way of documenting new things we should explore"
+Technology Radar,trial,tools,TRUE,"Tech that is discussed in our engineering teams, COPs, etc. and warrants further investigation should be added to our radar. Based on Thoughtworks <a href='https://radar.thoughtworks.com/'>'build your own radar'</a>"

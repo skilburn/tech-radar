@@ -4,7 +4,7 @@
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "TRUE",
-    "description": "Tech that is discussed in our engineering community, COPs, etc. and warrants further investigation should be added to our radar. This is based on Thoughtworks '<a href='https://radar.thoughtworks.com/'> build your own radar</a>'"
+    "description": "Tech that is discussed in our engineering community, COPs, etc. and warrants further investigation should be added to our radar. This is based on Thoughtworks '<a href='https://radar.thoughtworks.com/'>build your own radar</a>'"
   },
   {
     "name": "Temporal",
